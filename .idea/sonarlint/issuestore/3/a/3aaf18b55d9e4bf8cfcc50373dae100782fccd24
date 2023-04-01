@@ -1,0 +1,7 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ò¹ç±øÿÿÿÿ8îëÒ».
+U
+java:S1610"8Convert the abstract class "Woodwind" into an interface.(áâœ8á›Ò».
+V
+java:S3400"9Remove this method and declare a constant for this value.(áâœ8á›Ò».
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë÷µ

@@ -1,0 +1,13 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¼ä ‰8èº§©÷.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¶ï©û8İĞìª÷.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Âíî×8¥ã•÷.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(˜•Î‚8åÀˆ•÷.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨òÆº
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(ï´ /8çş‚•÷.
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8†€¬÷.
+X	java:S125"<This block of commented-out lines of code should be removed.(¹„í8™œ¥÷.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(«§˜ğ8 Âïª÷.
+]	java:S125"<This block of commented-out lines of code should be removed.(öÅ€Ùşÿÿÿÿ8Èü”÷.
+X	java:S125"<This block of commented-out lines of code should be removed.(»Ï¢¯8–ÌÅ©÷.

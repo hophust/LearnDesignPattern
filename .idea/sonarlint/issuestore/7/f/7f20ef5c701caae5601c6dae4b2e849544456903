@@ -1,0 +1,7 @@
+
+~
+java:S4165"cRemove this useless assignment; "color" already holds the assigned value along all execution paths.(¢¨Ùùøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«–ÁÁ
+J
+java:S1656"/Remove or correct this useless self-assignment.(¢¨Ùùøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡×öóÿÿÿÿÿ

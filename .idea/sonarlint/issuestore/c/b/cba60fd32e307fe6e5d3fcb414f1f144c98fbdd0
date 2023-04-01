@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡íÚ“ùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¥€™Çúÿÿÿÿ
+A
+java:S1172"+Remove this unused method parameter "args".(Çµí‘
+d
+java:S1854"NRemove this useless assignment to local variable "mang2ChieuChiDinhCacPhanTu".(ã †‘
+k
+java:S1854"URemove this useless assignment to local variable "mang2ChieuCo5DongSoCotKhongCoDinh".(¾¥ïó
+`
+java:S1854"JRemove this useless assignment to local variable "mang2ChieuCo5Dong10Cot".(“Ğüì
+P
+java:S1854%":Remove this useless assignment to local variable "blocks".(ƒÇ”
+b
+java:S1854$"GRemove this useless assignment to local variable "testDauNgoacSaubien".(£à‰ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ûáœüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•úİ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸…Ù
+S	java:S106""9Replace this use of System.out or System.err by a logger.(‘™ùÿÿÿÿ
+S
+java:S1197$"8Move the array designator from the variable to the type.(£à‰ùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ºØ‡Ëşÿÿÿÿ
+\
+java:S1481"FRemove this unused "mang2ChieuCo5DongSoCotKhongCoDinh" local variable.(¾¥ïó
+U
+java:S1481"?Remove this unused "mang2ChieuChiDinhCacPhanTu" local variable.(ã †‘
+S
+java:S1481$"8Remove this unused "testDauNgoacSaubien" local variable.(£à‰ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(îìÒ›øÿÿÿÿ

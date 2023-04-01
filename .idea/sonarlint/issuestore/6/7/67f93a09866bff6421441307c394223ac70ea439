@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şØ©ÿşÿÿÿÿ8³ôŠ×Ş.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š™ø
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8³ôŠ×Ş.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ƒ¦×øÿÿÿÿ8À–Ëæë.
+N
+java:S1612",Replace this lambda with a method reference.(î­¬àıÿÿÿÿ8À–Ëæë.

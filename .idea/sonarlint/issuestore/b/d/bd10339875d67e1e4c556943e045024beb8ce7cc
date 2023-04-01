@@ -1,0 +1,15 @@
+
+R
+java:S1610"<Convert the abstract class "AbstractTest" into an interface.(±Ø™„
+O
+java:S3400"9Remove this method and declare a constant for this value.(ŒİûŒ
+I
+java:S1610"3Convert the abstract class "Bar" into an interface.(Ñõûã
+O
+java:S3400	"9Remove this method and declare a constant for this value.(³Î¢ó
+A
+java:S1172"+Remove this unused method parameter "args".(Çµí‘
+L
+java:S1854"7Remove this useless assignment to local variable "bar".(ğ±ƒ\
+[
+java:S1854"@Remove this useless assignment to local variable "abstractTest".(Òªóèùÿÿÿÿ

@@ -1,0 +1,20 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ïª„µ8ÕŒ¿…ñ.
+k
+java:S2445"I"food" is a method parameter, and should not be used for synchronization.(—ß¡Èıÿÿÿÿ8õ¸Ê…ñ.
+d
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(ã­—›üÿÿÿÿ8ÕŒ¿…ñ.
+g
+java:S2445"J"water" is a method parameter, and should not be used for synchronization.(°å8‡¼Æ…ñ.
+k
+java:S2445"I"food" is a method parameter, and should not be used for synchronization.(—ß¡Èıÿÿÿÿ8›ÔÄ…ñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Üòöš8õ¸Ê…ñ.
+g
+java:S2445"J"water" is a method parameter, and should not be used for synchronization.(°å8õ¸Ê…ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïîÃµşÿÿÿÿ8õ¸Ê…ñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Üòöš8‡¼Æ…ñ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äì˜âûÿÿÿÿ
+c
+java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒ¢Á…ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïîÃµşÿÿÿÿ8‡¼Æ…ñ.

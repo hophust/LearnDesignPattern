@@ -1,0 +1,40 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï×„Î8ùª¼¼Ú.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(º¶©á8¥Åø‘Ü.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ìë“ê8á™ôºÚ.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8´¥ú¶Ú.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(õŞ°ıÿÿÿÿ8ˆ²’Ü.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(óã§ÿÿÿÿÿ8²¦÷‘Ü.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÖÓ‹ô8Œçƒ’Ü.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ø”§ÑÜ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ñ±àŒ8˜•‚’Ü.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ì¦Ìæ8–‘‡¾Ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ÊÚ”8èÉò½Ú.
+Y
+java:S1854"<Remove this useless assignment to local variable "objects1".(÷Âà8¶ßÿõ‘0
+K
+java:S1481")Remove this unused "test" local variable.(’Ñ¨şÿÿÿÿ8Íù½ºÚ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ıˆõ8ëò½Ü.
+K
+java:S1481")Remove this unused "tes1" local variable.(í—ßâúÿÿÿÿ8Íù½ºÚ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¼Â˜ûÿÿÿÿÿ8ˆ²’Ü.
+U
+java:S11974"8Move the array designator from the variable to the type.(Ùğøë8®ùÁÏÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ßå½Ú.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(›“úÿÿÿÿ8Œê€’Ü.
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(±Œùo8–Ü¹ĞÜ.
+I
+java:S14815",Remove this unused "array2D" local variable.(ŠíõÅ8•İÀÏÜ.
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(È’k8Œçƒ’Ü.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áùƒşÿÿÿÿ
+Z
+java:S1854"8Remove this useless assignment to local variable "test".(’Ñ¨şÿÿÿÿ8Íù½ºÚ.
+I
+java:S14814",Remove this unused "array1D" local variable.(Ùğøë8¾ìÃÏÜ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¿é×8¹±Ò»Ú.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(€•¦•úÿÿÿÿ8ä¾ÏÜ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÕĞÎ§8ˆ²’Ü.
+Z
+java:S1854"8Remove this useless assignment to local variable "tes1".(í—ßâúÿÿÿÿ8Íù½ºÚ.
+J
+java:S1481"-Remove this unused "objects1" local variable.(÷Âà8¶ßÿõ‘0

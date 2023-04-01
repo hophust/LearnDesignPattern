@@ -1,0 +1,17 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(õäëÅ8¸ÐÄ·ý.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë÷µ
+t
+java:S2177	"WRename this method; there is a "private" method in the parent class with the same name.(ŒŠ€±8Ì¿ãÑ».
+V
+java:S3400"9Remove this method and declare a constant for this value.(Ýë©‘8Ì¿ãÑ».
+V
+java:S3400	"9Remove this method and declare a constant for this value.(ŒŠ€±8Ì¿ãÑ».
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜µëÛøÿÿÿÿ8Æ´Å·ý.
+G
+java:S1144"*Remove this unused private "drive" method.(Ýë©‘8Ì¿ãÑ».
+T	java:S106"9Replace this use of System.out or System.err by a logger.(™¸øX8ù÷¹Ï».
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜µëÛøÿÿÿÿ8•ûÅ·ý.

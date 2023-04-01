@@ -1,0 +1,7 @@
+
+v
+java:S1210""YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(åÈ×¥8ªÜÉœı.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÙæÙóøÿÿÿÿ8·ËÉœı.
+E
+java:S1604'"(Make this anonymous inner class a lambda(Ğ¹İ’8æÜÊœı.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ş¤Ò³8ªÜÉœı.

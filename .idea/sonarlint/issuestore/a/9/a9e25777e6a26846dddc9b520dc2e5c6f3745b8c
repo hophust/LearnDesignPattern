@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÔ»ÿÿÿÿÿ8ŒŞÅı.
+[
+java:S3400"9Remove this method and declare a constant for this value.(•ÚÑÈûÿÿÿÿ8×ŒÅı.
+\
+java:S1161":Add the "@Override" annotation above this method signature(õñ§ıÿÿÿÿ8×ŒÅı.
+V
+java:S3400"9Remove this method and declare a constant for this value.(÷É£â8×ŒÅı.
+W
+java:S2209"5Change this instance-reference to a static reference.(ÁÔ»ÿÿÿÿÿ8‘ÕÅı.
+[
+java:S3400"9Remove this method and declare a constant for this value.(İ„Çùÿÿÿÿ8×ŒÅı.

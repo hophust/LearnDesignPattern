@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÜÍ‚
+O
+java:S1481	"2Remove this unused "singleElement" local variable.(ÔÇ¤À8‘€œä÷.
+M
+java:S1481"1Remove this unused "stringStream" local variable.(õ‘ó%8ÿÆ®ä÷.
+K
+java:S1481
+".Remove this unused "fromArray" local variable.(îøÉÖ8‘€œä÷.
+Z
+java:S1854
+"=Remove this useless assignment to local variable "fromArray".(îøÉÖ8‘€œä÷.
+d
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(Ê©ñâüÿÿÿÿ8™õ¶ä÷.
+L
+java:S1481"*Remove this unused "empty" local variable.(ƒö¥†úÿÿÿÿ8‘€œä÷.
+U
+java:S1481"3Remove this unused "parallelStream" local variable.(Ê©ñâüÿÿÿÿ8™õ¶ä÷.
+[
+java:S1854"9Remove this useless assignment to local variable "empty".(ƒö¥†úÿÿÿÿ8‘€œä÷.
+^
+java:S1854	"ARemove this useless assignment to local variable "singleElement".(ÔÇ¤À8‘€œä÷.
+\
+java:S1854"@Remove this useless assignment to local variable "stringStream".(õ‘ó%8ÿÆ®ä÷.

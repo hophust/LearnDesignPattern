@@ -1,0 +1,13 @@
+
+K
+java:S1444"0Make this "public static testStatic" field final(ØÌÅÏýÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øð¡@
+q
+java:S1104"VMake testStatic a static final constant or non-public and provide accessors if needed.(ØÌÅÏýÿÿÿÿ
+T
+java:S1226">Introduce a new variable instead of reusing the parameter "p".(š±Äá
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(— •¨ûÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(— •¨ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¿¯ƒýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¸‰šÝ

@@ -1,0 +1,11 @@
+Java Building Blocks
+
+1. Làm việc cùng kiểu dữ liệu nguyên thủy và String APIs
+- Khai báo và khởi tạo biến
+- Xác định phạm vi của biến
+- Sử dụng local variable type inference
+
+2. Tạo và sử dụng đối tượng, lớp
+- Khai báo và khởi tạo đối tượng
+- Giải thích vòng đời của đối tượng
+- Đọc và ghi thuộc tính đối tượng

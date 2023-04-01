@@ -1,0 +1,27 @@
+Core Java APIs
+
+- String, String poll, string builder, string buffer
+- == va equal
+- Array:
+Tạo mảng nguyên thủy
+Tạo mảng cùng biến tham chiếu
+Sử dụng mảng
+Sắp xếp
+Tìm kiếm
+Đối số linh động: varargs
+Mảng đa chiều
+
+- ArrayList:
+Tạo mảng
+Sử dụng mạng
+Wrapper Class
+Autoboxing
+Chuyển đổi array và arrayList
+Sắp xếp
+
+- Date, Time:
+Tạo Date và time
+Thao tác DateTime
+Làm việc cùng Periods
+Định dạng Dates và Times
+Chuyển đổi Dates và Time

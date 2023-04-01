@@ -1,0 +1,8 @@
+
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ŞÂ©8²ò½“/
+h
+java:S11920"KDefine a constant instead of duplicating this literal "Stationery" 3 times.(µ¿šî8Áåá½“/
+U
+java:S18543"8Remove this useless assignment to local variable "test".(ÌÄô†8†ª‚¾“/
+F
+java:S14813")Remove this unused "test" local variable.(ÌÄô†8†ª‚¾“/

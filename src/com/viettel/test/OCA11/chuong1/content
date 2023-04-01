@@ -1,0 +1,11 @@
+1. Hiểu về công nghệ và môi trường java
+- Mô tả về công nghệ và môi trường java
+- xác định tính năng chính của ngôn ngữ java
+
+2. Tạo 1 chương trình java đơn giản
+- Tạo 1 chương trình java cùng lớp main
+- Biên dịch và chạy chương trình java bằng command line
+- Tạo và import package
+
+3. Tạo và sử dụng đối tượng, lớp
+- Định nghĩa cấu trúc của 1 lớp: trường, phương thức

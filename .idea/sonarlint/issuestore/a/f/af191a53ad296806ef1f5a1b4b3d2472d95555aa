@@ -1,0 +1,22 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸«‚ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡íÚ“ùÿÿÿÿ
+H
+java:S1481"-Remove this unused "iterSize" local variable.(×ÈËúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿àÇúÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "arr2".(êı¶¹üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºçÛõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ¤Æüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨•ÍË
+W
+java:S1854"<Remove this useless assignment to local variable "iterSize".(×ÈËúÿÿÿÿ
+D
+java:S1481")Remove this unused "arr2" local variable.(êı¶¹üÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(åâ¢ııÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“²¡¬
+M	java:S106"9Replace this use of System.out or System.err by a logger.(±×ç
+M	java:S106"9Replace this use of System.out or System.err by a logger.(±×ç
+R
+java:S1481"5Remove this unused "kieuDuLieuObject" local variable.(‚¼öÚ8ğ»¦ğ’0

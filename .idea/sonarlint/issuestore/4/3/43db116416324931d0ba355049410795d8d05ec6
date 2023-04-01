@@ -1,0 +1,9 @@
+
+L
+java:S1481"*Remove this unused "trees" local variable.(’ƒ¤Éÿÿÿÿÿ8Ìÿöò¼.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§‡é¡üÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ø¾çøÿÿÿÿ8Ìÿöò¼.
+H
+java:S1172"+Remove this unused method parameter "data".(þö¸Õ8ª×ƒÓÁ.
+[
+java:S1854"9Remove this useless assignment to local variable "trees".(’ƒ¤Éÿÿÿÿÿ8Ìÿöò¼.

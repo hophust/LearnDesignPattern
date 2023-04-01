@@ -1,0 +1,24 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÜßå8ÔŸÿ›Ø.
+S
+java:S1854"6Remove this useless assignment to local variable "ch".(¥À¦8†ööœØ.
+N
+java:S1481!",Remove this unused "builder" local variable.(ÙÂ»¤úÿÿÿÿ8©´î’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù—µ8‡ğº˜Ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïªòÖ8•‰À˜Ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º÷ëœûÿÿÿÿ8ü…™Ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡©¸¥8†ööœØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸è–‰şÿÿÿÿ8ƒò—Ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÏÀ«8™Ö×–Ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ±îåùÿÿÿÿ8’›¢˜Ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£‹°§8ğÍ§›Ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šÈ»Èûÿÿÿÿ8ÔŸÿ›Ø.
+D
+java:S1481"'Remove this unused "ch" local variable.(¥À¦8úúúœØ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ŠœÊû8ƒò—Ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í°ø®8±’‰™Ø.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áùƒşÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«À¸÷8¹œÚœØ.
+]
+java:S1854!";Remove this useless assignment to local variable "builder".(ÙÂ»¤úÿÿÿÿ8©´î’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒíÜü8’›¢˜Ø.

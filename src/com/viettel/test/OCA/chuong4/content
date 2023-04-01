@@ -1,0 +1,29 @@
+Phuong thuc va tinh dong goi
+
+- tao phuong thuc
+- Access Modifiers, phuong thuc va bien static
+- Truyen du lieu giua nhung phuong thuc
+- Constructor va phuong thuc nap chong
+- Tính dong goi
+- Lambda
+
+------------------------------------------------------
+
+- bien final: cả chương trình dùng chung và không thể thay đổi
+Chúng ta có thể thay đổi giá trị của thuộc tính của một đối tượng là final nhưng không thể khởi tạo lại đối tượng đó 1 lần nữa
+- phương thức final: các lớp con kế thừa không ghi đè được
+- Lớp final: không cho các lớp kế thừa
+
+--------------------------
+- static dùng để quản lý bộ nhớ tốt hơn, có thể truy cập trực tiếp thông qua lớp mà không cần khởi tạo.
+- Biến static dùng làm thuộc tính chung, dữ liệu chung cho tất cả objects (hoặc instances ) của lớp đó và điều đó giúp cho chương trình tiết kiệm bộ nhớ hơn
+- Nếu một biến vừa khai báo từ khóa final vừa khai báo từ khóa static thì nó được xem như là một hằng số
+- Phuong thuc static thuong dung la cac ham Utils
+- Khoi static dung de khoi tao hoac thay doi gia tri bien static, duoc thuc thi truoc phuong thuc main, tai thoi diem tai lop
+- Instance block là 1 khối gồm nhiều dòng code, nhưng nó không thuộc về lớp mà thuộc về instance của lớp, được thực thi mỗi khi instance của lớp được khởi tạo
+- Thư tự thực hiện:
+Đầu tiên là thực hiện những đoạn code trong static block trước.
+Sau đó mới tới những đoạn code trong instance block.
+Và code trong constructor sẽ thực hiện sau cùng.
+
+-----------------------------------------------------

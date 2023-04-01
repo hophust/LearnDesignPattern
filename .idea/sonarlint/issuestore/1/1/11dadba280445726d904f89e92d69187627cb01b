@@ -1,0 +1,14 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÛî‰øÿÿÿÿ8§†Òşò.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(—îãóÿÿÿÿÿ8§†Òşò.
+N
+java:S1874",Remove this use of "sing"; it is deprecated.(˜¹ˆ¯üÿÿÿÿ8§†Òşò.
+W
+java:S1133"5Do not forget to remove this deprecated code someday.(ØÛî‰øÿÿÿÿ8§†Òşò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¸Ú·
+J
+java:S1123"(Add the missing @deprecated Javadoc tag.(ØÛî‰øÿÿÿÿ8§†Òşò.
+L
+java:S3740"/Provide the parametrized type for this generic.(Æù„8ù¾Òşò.

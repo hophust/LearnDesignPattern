@@ -1,0 +1,22 @@
+
+[	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(ûÑ¥‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ¯¿Áşÿÿÿÿ
+C
+java:S1128"-Remove this unused import 'java.time.Period'.(šÉ¢½
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ
+‚
+java:S1130M"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ûÑ¥‘
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¸³îøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(êø‚
+V	java:S125&"<This block of commented-out lines of code should be removed.(ë“É²ıÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(şæé›úÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(éÄÃíûÿÿÿÿ
+=
+java:S1144M"'Remove this unused private "m1" method.(ûÑ¥‘

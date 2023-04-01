@@ -1,0 +1,14 @@
+
+>	java:S131""Add a default case to this switch.(ðÐªí8é‡˜Å×.
+E	java:S108")Either remove or fill this block of code.(Ëäç€8°ÔÇÆ×.
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ðÐªí8é‡˜Å×.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž»
+=	java:S131""Add a default case to this switch.(¨…­Z8ÍóøÂ×.
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ëäç€8°ÔÇÆ×.
+E	java:S108")Either remove or fill this block of code.(ðÐªí8é‡˜Å×.
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¨…­Z8ÍóøÂ×.
+>	java:S131""Add a default case to this switch.(Ëäç€8°ÔÇÆ×.
+D	java:S108")Either remove or fill this block of code.(¨…­Z8¢–‡Ã×.

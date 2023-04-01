@@ -1,0 +1,16 @@
+
+V
+java:S3400"9Remove this method and declare a constant for this value.(ÀÔôÛ8±›¦—¿.
+[
+java:S3400
+"9Remove this method and declare a constant for this value.(§ªÜ·üÿÿÿÿ8±›¦—¿.
+R
+java:S2209"5Change this instance-reference to a static reference.(Ò¦ò¨8µŠ«—¿.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë÷µ
+O
+java:S1144"2Remove this unused private "getEqualSides" method.(åƒš®8µŠ«—¿.
+Z
+java:S1610"=Convert the abstract class "Parallelogram" into an interface.(îõşÍ8÷Ô·ı.
+V
+java:S3400"9Remove this method and declare a constant for this value.(åƒš®8±›¦—¿.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¦ò¨8±›¦—¿.

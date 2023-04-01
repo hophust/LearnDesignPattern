@@ -1,0 +1,13 @@
+- Toán tử: https://viettuts.vn/java/toan-tu-trong-java#goto-h2-4
+Toán tử 1 ngôi: ++, --, +, -, !,
+Toán tử 2 ngôi: +, -, *, /, %
+Toán tử thao tác bit: <<, >>, >>>
+Toán tử quan hệ: <, >, <=, >=, instance of
+Toán tử bằng: ==, !=
+Toán tử logic: ^, ^, |, &&, ||
+Toán tử gán: =, +=, -= ...
+
+- Các câu lệnh trong java: if, if else, switch, for, while, do while
+
+- Điều khiển luồng: vòng lặp lồng nhau, vòng lặp có nhãn (gán nhãn chính là đặt tên cho vòng lặp), break,continue
+https://o7planning.org/vi/11563/vong-lap-trong-java#a12405709

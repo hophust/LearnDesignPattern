@@ -1,0 +1,19 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "x".(»à ”ùÿÿÿÿ8¥ŠÀÝê.
+W
+java:S1854	"5Remove this useless assignment to local variable "y".(¼Ê„†ýÿÿÿÿ8ºÙÂÝê.
+H
+java:S1481	"&Remove this unused "y" local variable.(¼Ê„†ýÿÿÿÿ8ºÙÂÝê.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ÿÕ üÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8½ÖÅÝê.
+P
+java:S1121".Extract the assignment out of this expression.(»à ”ùÿÿÿÿ8ýÖÁÝê.
+V
+java:S1854
+"9Remove this useless assignment to local variable "args1".(Ý¶Áæ8†ê¾õ‘0
+W
+java:S1854"5Remove this useless assignment to local variable "x".(»à ”ùÿÿÿÿ8†ê¾õ‘0
+G
+java:S1481
+"*Remove this unused "args1" local variable.(Ý¶Áæ8†ê¾õ‘0

@@ -1,0 +1,22 @@
+
+E
+java:S1172"(Remove this unused method parameter "c".(Ë®¶³8º£õÛú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÓæÎùÿÿÿÿ8İ¦Üú.
+E
+java:S1172"(Remove this unused method parameter "l".(Ü„†±8İ¦Üú.
+^
+java:S1610"<Convert the abstract class "AmazingClass" into an interface.(®öğ“øÿÿÿÿ8¶ê„Üú.
+>
+java:S1116
+"Remove this empty statement.(ôŸìúÿÿÿÿ8èÍõÛú.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÍóËûÿÿÿÿ8İ¦Üú.
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8İ¦Üú.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ü„†±8šíÜú.
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Çö’”ùÿÿÿÿ8«ı€Üú.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ë®¶³8»ÄÜú.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Ç¹»ş8º£õÛú.

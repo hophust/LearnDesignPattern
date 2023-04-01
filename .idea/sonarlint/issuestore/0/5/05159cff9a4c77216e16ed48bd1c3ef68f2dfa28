@@ -1,0 +1,8 @@
+
+M
+java:S1481"0Remove this unused "varInMethod" local variable.(å€ÁÀ8˜ˆÂ“Ò.
+\
+java:S1854"?Remove this useless assignment to local variable "varInMethod".(å€ÁÀ8˜ˆÂ“Ò.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÖÿÖûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú§ıÿÿÿÿ8½¥Ò“Ò.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ş™8½¥Ò“Ò.

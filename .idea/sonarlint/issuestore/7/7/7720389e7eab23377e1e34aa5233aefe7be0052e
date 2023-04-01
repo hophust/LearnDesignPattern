@@ -1,0 +1,20 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı‹æè
+q
+java:S4276
+"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(óç…¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ–¡İıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µò˜°øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±É¸ÿıÿÿÿÿ
+v
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(İ¹ÂÉşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô…¨¸ùÿÿÿÿ
+q
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(ş¨
+B
+java:S1612
+",Replace this lambda with a method reference.(óç…¹
+S
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(òÕú„

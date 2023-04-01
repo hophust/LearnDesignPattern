@@ -1,0 +1,37 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(êáØ8Ÿ¸„ÓÁ.
+]	java:S125"<This block of commented-out lines of code should be removed.(† æ—ÿÿÿÿÿ8Ÿ¸„ÓÁ.
+W
+java:S1854"5Remove this useless assignment to local variable "d".(ÖšÁ—øÿÿÿÿ8Ÿ¸„ÓÁ.
+L
+java:S1481"*Remove this unused "test3" local variable.(ÈáÈ®üÿÿÿÿ8Ÿ¸„ÓÁ.
+]	java:S125"<This block of commented-out lines of code should be removed.(˜¤­şÿÿÿÿ8Ÿ¸„ÓÁ.
+W	java:S125"<This block of commented-out lines of code should be removed.(‚ÒÍ)8Ÿ¸„ÓÁ.
+H
+java:S1481"&Remove this unused "d" local variable.(ÖšÁ—øÿÿÿÿ8Ÿ¸„ÓÁ.
+[
+java:S1854"9Remove this useless assignment to local variable "test3".(ÈáÈ®üÿÿÿÿ8Ÿ¸„ÓÁ.
+]	java:S125"<This block of commented-out lines of code should be removed.(Æ®œªúÿÿÿÿ8Ÿ¸„ÓÁ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Ú°©8Ÿ¸„ÓÁ.
+U
+java:S1854"9Remove this useless assignment to local variable "test2".(ÇN8áê¢ğ’0
+H
+java:S2201"+The return value of "valueOf" must be used.(‡Ğ¥„8áê¢ğ’0
+>
+java:S2129"!Remove this "Integer" constructor(ùñÖõ8áê¢ğ’0
+L
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ùñÖõ8áê¢ğ’0
+A
+java:S2153"Remove the boxing to "Integer".(ÈáÈ®üÿÿÿÿ8áê¢ğ’0
+C
+java:S2129"!Remove this "Integer" constructor(ÈáÈ®üÿÿÿÿ8áê¢ğ’0
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ÈáÈ®üÿÿÿÿ8áê¢ğ’0
+@
+java:S2153"Remove the boxing to "Double".(ÖšÁ—øÿÿÿÿ8áê¢ğ’0
+B
+java:S2129" Remove this "Double" constructor(ÖšÁ—øÿÿÿÿ8áê¢ğ’0
+P
+java:S1874".Remove this use of "Double"; it is deprecated.(ÖšÁ—øÿÿÿÿ8áê¢ğ’0
+F
+java:S1481"*Remove this unused "test2" local variable.(ÇN8áê¢ğ’0

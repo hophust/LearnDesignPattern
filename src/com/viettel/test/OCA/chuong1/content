@@ -1,0 +1,10 @@
+- Hiểu về cấu trúc lớp bao gồm: thuộc tính + phương thức
+- Viết phương thức main
+- Hiểu về khai báo package, import
+- Tạo đối tượng: constructor, đọc và ghi các thuộc tính, khối khởi tạo, thứ tự khởi tạo
+- Phân biệt: kiểu nguyên thủy và tham chiếu đối tượng
+- Khai báo và khởi tạo biến, khởi tạo biến mặc định
+- Phạm vi của biến
+- Thứ tự các phần tử trong lớp
+- Bộ dọn rác
+

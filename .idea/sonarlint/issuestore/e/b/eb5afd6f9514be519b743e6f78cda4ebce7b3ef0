@@ -1,0 +1,14 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú”‰Ñ8í‡¶Äı.
+[
+java:S1854
+"9Remove this useless assignment to local variable "test4".(Âòé´úÿÿÿÿ8í‡¶Äı.
+L
+java:S1481
+"*Remove this unused "test4" local variable.(Âòé´úÿÿÿÿ8í‡¶Äı.
+X	java:S125"<This block of commented-out lines of code should be removed.(±¢â³8í‡¶Äı.
+]	java:S125	"<This block of commented-out lines of code should be removed.(ìËÁÔıÿÿÿÿ8í‡¶Äı.
+[
+java:S1854"9Remove this useless assignment to local variable "test2".(Óÿ›¿ıÿÿÿÿ8í‡¶Äı.
+L
+java:S1481"*Remove this unused "test2" local variable.(Óÿ›¿ıÿÿÿÿ8í‡¶Äı.

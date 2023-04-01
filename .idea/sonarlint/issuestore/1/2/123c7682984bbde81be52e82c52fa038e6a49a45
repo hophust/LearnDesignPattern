@@ -1,0 +1,42 @@
+
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ùûÓ¯ùÿÿÿÿ8Â„²ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÇğùÿÿÿÿÿ8È¡„ÁØ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(È¢¥ª8Íä­ÂØ.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(·è¯œ8´¼ÂØ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ãé“Ÿ8´¼ÂØ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ä•ı³8Ë¥ÂØ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(àûÎÀÿÿÿÿÿ8™÷“ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·–®„ùÿÿÿÿ8È¡„ÁØ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ÀÀ¢èıÿÿÿÿ8¼™®ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·–®„ùÿÿÿÿ8²–‰ÁØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ÷„¢úÿÿÿÿ8ÂŒöÀØ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œŒÙÂùÿÿÿÿ8ë­¥ÂØ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÈÊˆŸÿÿÿÿÿ8Íä­ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îãı€şÿÿÿÿ8ÂŒöÀØ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(°¨›Šıÿÿÿÿ8ë­¥ÂØ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İæ’ 8é ÃÀØ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÅÅ¬éûÿÿÿÿ8ë­¥ÂØ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áùƒşÿÿÿÿ
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Hello World" 3 times.(†›—¾úÿÿÿÿ8™÷“ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÇğùÿÿÿÿÿ8²–‰ÁØ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ú‡Ş8ë­¥ÂØ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îôÆàşÿÿÿÿ8ÂŒöÀØ.
+[
+java:S4973 "9Use the "equals" method if value comparison was intended.(àûÎÀÿÿÿÿÿ8¼¥…ï’0
+[
+java:S4973'"9Use the "equals" method if value comparison was intended.(ÅÅ¬éûÿÿÿÿ8¼¥…ï’0
+[
+java:S4973("9Use the "equals" method if value comparison was intended.(°¨›Šıÿÿÿÿ8¼¥…ï’0
+[
+java:S4973)"9Use the "equals" method if value comparison was intended.(œŒÙÂùÿÿÿÿ8¼¥…ï’0
+V
+java:S4973*"9Use the "equals" method if value comparison was intended.(Ú‡Ş8¼¥…ï’0
+[
+java:S49734"9Use the "equals" method if value comparison was intended.(ÈÊˆŸÿÿÿÿÿ8¼¥…ï’0
+V
+java:S49735"9Use the "equals" method if value comparison was intended.(È¢¥ª8¼¥…ï’0
+B
+java:S2129" Remove this "String" constructor(®‡ùÿÿÿÿ8¼¥…ï’0
+=
+java:S2129&" Remove this "String" constructor(ÁÛñ8¼¥…ï’0

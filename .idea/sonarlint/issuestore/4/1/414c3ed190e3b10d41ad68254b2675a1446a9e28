@@ -1,0 +1,21 @@
+
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8ì—„ÓÁ.
+P
+java:S2209
+"5Change this instance-reference to a static reference.(Í¶Ñ—ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§‡é¡üÿÿÿÿ
+;
+java:S1659	"&Declare "tomorrow" on a separate line.(à•G
+B
+java:S1481	"-Remove this unused "tomorrow" local variable.(à•G
+[
+java:S1854"9Remove this useless assignment to local variable "tolls".(ïóè‹øÿÿÿÿ8ì—„ÓÁ.
+Q
+java:S1854	"<Remove this useless assignment to local variable "tomorrow".(à•G
+V	java:S125"<This block of commented-out lines of code should be removed.(Ïê„üÿÿÿÿ
+U
+java:S1854	"9Remove this useless assignment to local variable "today".(à•G8ì—„ÓÁ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„¦œıÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Í¶Ñ—ÿÿÿÿÿ

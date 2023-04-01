@@ -1,0 +1,15 @@
+
+]	java:S125	"<This block of commented-out lines of code should be removed.(ç¼Ó·üÿÿÿÿ8°ªâ›/
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(òÔ8°ªâ›/
+|
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(öêÒ8°ªâ›/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Æ¦¬°şÿÿÿÿ8¦êûá›/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…ï¼“ÿÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(şÀÿ¶ûÿÿÿÿ8¦êûá›/
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(òÔ8°ªâ›/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸²û€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ

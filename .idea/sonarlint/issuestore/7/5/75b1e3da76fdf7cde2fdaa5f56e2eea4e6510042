@@ -1,0 +1,14 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ñ·ÍŸ
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8Õë ÷Ì.
+X
+java:S1854	";Remove this useless assignment to local variable "bankApp".(†ŒØø8õÁÂ÷Ì.
+[
+java:S1854"9Remove this useless assignment to local variable "close".(”Ï¿ğşÿÿÿÿ8õÁÂ÷Ì.
+Z
+java:S1854"8Remove this useless assignment to local variable "open".(Â±…úÿÿÿÿ8õÁÂ÷Ì.
+W
+java:S1854";Remove this useless assignment to local variable "account".(ì¢¤|8õÁÂ÷Ì.
+X	java:S125"<This block of commented-out lines of code should be removed.(ïª€–8õÁÂ÷Ì.

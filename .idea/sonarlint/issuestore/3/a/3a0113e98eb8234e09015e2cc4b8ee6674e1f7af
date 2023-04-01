@@ -1,0 +1,13 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÜÏØÒıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùé§™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÛø¥ùÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(—Ú×ã
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ä ²˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’­Êß
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ÿå„
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿•©Öıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—øü—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øØ«äøÿÿÿÿ

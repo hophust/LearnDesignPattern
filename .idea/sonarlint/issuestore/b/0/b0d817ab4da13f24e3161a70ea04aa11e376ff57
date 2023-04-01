@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«–ÁÁ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ôø¹í
+A
+java:S1172"+Remove this unused method parameter "args".(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿óÀ¡øÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¾‚˜ˆ
+E
+java:S1611	"/Remove the parentheses around the "i" parameter(¾‚˜ˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë÷ò„þÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(ë÷ò„þÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ë÷ò„þÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ñÎ„i
+V	java:S125
+"<This block of commented-out lines of code should be removed.(¤“¨âøÿÿÿÿ

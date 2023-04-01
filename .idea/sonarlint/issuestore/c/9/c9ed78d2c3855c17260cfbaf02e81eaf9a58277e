@@ -1,0 +1,12 @@
+
+V
+java:S3400"9Remove this method and declare a constant for this value.(›…Ú8æšÑ».
+W
+java:S1161":Add the "@Override" annotation above this method signature(ÇÌ“8æšÑ».
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£æ„÷8æšÑ».
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë÷µ
+L
+java:S1172"/Remove this unused method parameter "students".(ŠæŸó8æšÑ».
+[
+java:S3400
+"9Remove this method and declare a constant for this value.(š²ÕÆÿÿÿÿÿ8æšÑ».

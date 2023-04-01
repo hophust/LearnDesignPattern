@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8óÙÀõ.
+g
+java:S2674"JCheck the return value of the "skip" call to see how many bytes were read.(Ã€éº8Ü‡¶Áõ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ÿå„
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8ì×ÚÀõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8¸ÂÛÀõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8¸ÂÛÀõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8­³ÔÀõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÿØÅ8¸ÂÛÀõ.

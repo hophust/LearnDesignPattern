@@ -1,0 +1,22 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¦º‚ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¹Âà·ıÿÿÿÿ
+G
+java:S1602-",Remove useless curly braces around statement(è²³ıÿÿÿÿ
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«×‰˜ÿÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(«¼ú´
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎŞ—Èøÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Û•¢Ò
+B
+java:S1612",Replace this lambda with a method reference.(ÇÃ×Ş
+B
+java:S1602"",Remove useless curly braces around statement(Á£¾’
+B
+java:S1602",Remove useless curly braces around statement(ÇÃ×Ş
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª±¦»ùÿÿÿÿ

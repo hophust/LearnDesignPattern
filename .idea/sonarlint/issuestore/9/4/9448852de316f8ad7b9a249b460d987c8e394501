@@ -1,0 +1,16 @@
+
+\
+java:S2123	":Remove this increment or correct the code not to waste it.(öðô»þÿÿÿÿ8«ë¾‡Õ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’šßÐ8¡ÄÞ‡Õ.
+X	java:S125"<This block of commented-out lines of code should be removed.(É¡›ñ8ÃØ¿‡Õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÓšÙúùÿÿÿÿ8¡ÄÞ‡Õ.
+C
+java:S1905
+"&Remove this unnecessary cast to "int".(Ù‰ù€8«ë¾‡Õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å‹ç¥üÿÿÿÿ8«ë¾‡Õ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿöù
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌœæË8¡ÄÞ‡Õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÓšÙúùÿÿÿÿ8¡ÄÞ‡Õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«“ú•úÿÿÿÿ8¡ÄÞ‡Õ.
+Y
+java:S1854	"7Remove this useless assignment to local variable "pig".(öðô»þÿÿÿÿ8øüþî’0

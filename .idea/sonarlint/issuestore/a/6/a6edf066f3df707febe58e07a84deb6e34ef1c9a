@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ÿýî8ê‰×‚ü.
+^
+java:S1854"ARemove this useless assignment to local variable "groupedValues".(²½ÀÏ8â¶ñ‚ü.
+O
+java:S1481"2Remove this unused "groupedValues" local variable.(²½ÀÏ8â¶ñ‚ü.

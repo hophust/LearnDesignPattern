@@ -1,0 +1,11 @@
+
+o
+java:S1104
+"RMake weight a static final constant or non-public and provide accessors if needed.(öØþÏ8¦’ºÑ».
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë÷µ
+o
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(íß““8¦’ºÑ».
+X	java:S125"<This block of commented-out lines of code should be removed.(ÀÂ¢¨8¥ÚºÑ».
+G
+java:S2387
+"*"weight" is the name of a field in "Ship".(öØþÏ8¦’ºÑ».
