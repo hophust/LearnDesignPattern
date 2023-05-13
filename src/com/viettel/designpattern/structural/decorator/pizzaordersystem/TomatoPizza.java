@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.decorator.pizzasystem;
+package com.viettel.designpattern.structural.decorator.pizzaordersystem;
 
 public class TomatoPizza implements IPizza {
 

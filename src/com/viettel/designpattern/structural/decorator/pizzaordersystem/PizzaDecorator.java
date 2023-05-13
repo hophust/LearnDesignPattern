@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.decorator.pizzasystem;
+package com.viettel.designpattern.structural.decorator.pizzaordersystem;
 
 public abstract class PizzaDecorator implements IPizza {
     // Reference to component object

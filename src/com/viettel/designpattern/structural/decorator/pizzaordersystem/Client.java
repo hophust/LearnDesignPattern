@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.decorator.pizzasystem;
+package com.viettel.designpattern.structural.decorator.pizzaordersystem;
 
 public class Client {
     public static void main(String[] args) {
