@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.decorator;
+package com.viettel.designpattern.structural.decorator.projectmanagementsystem;
 
 public class Manager extends EmployeeDecorator{
     protected Manager(EmployeeComponent employee) {

@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.decorator;
+package com.viettel.designpattern.structural.decorator.projectmanagementsystem;
 
 public class TeamLeader extends EmployeeDecorator {
 
