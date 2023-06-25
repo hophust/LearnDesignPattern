@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.flyweight;
+package com.viettel.designpattern.structural.flyweight.createSoldier;
 import java.util.HashMap;
 import java.util.Map;
 public class SoldierFactory {

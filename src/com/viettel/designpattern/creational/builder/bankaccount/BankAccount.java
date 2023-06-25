@@ -9,8 +9,6 @@ public class BankAccount {
     private final boolean newsletter;
     private final boolean mobileBanking;
 
-
-
     public BankAccount(String name, String accountNumber, String address, String email, boolean newsletter,
                        boolean mobileBanking) {
         super();
@@ -59,7 +57,6 @@ public class BankAccount {
 
         public BankAccount build() {
             validateUserObject();
-
             BankAccount bankAccount = new BankAccount(
                     this.name, this.accountNumber,
                     this.address, this.email,

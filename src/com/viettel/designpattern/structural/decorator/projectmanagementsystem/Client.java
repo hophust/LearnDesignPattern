@@ -3,7 +3,7 @@ package com.viettel.designpattern.structural.decorator.projectmanagementsystem;
 public class Client {
     public static void main(String[] args) {
         System.out.println("NORMAL EMPLOYEE: ");
-        EmployeeComponent employee = new EmployeeConcreteComponent("GPCoder");
+        EmployeeComponent employee = new EmployeeConcreteComponent("EMPLOYEE");
         employee.showBasicInformation();
         employee.doTask();
 

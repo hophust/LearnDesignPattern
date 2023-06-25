@@ -17,5 +17,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="okhttp-2.7.5" level="project" />
+    <orderEntry type="library" name="commons-codec-1.4" level="project" />
+    <orderEntry type="library" name="okio-1.14.0" level="project" />
   </component>
 </module>

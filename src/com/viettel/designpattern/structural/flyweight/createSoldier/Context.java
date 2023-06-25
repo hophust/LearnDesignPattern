@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.flyweight;
+package com.viettel.designpattern.structural.flyweight.createSoldier;
 
 public class Context {
     private String id;

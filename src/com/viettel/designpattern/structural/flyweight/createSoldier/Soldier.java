@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.flyweight;
+package com.viettel.designpattern.structural.flyweight.createSoldier;
 
 public class Soldier implements ISoldier{
     private final String name; // Intrinsic State
