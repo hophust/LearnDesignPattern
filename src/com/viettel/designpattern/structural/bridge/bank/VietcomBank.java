@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.bridge;
+package com.viettel.designpattern.structural.bridge.bank;
 
 
 public class VietcomBank extends Bank {

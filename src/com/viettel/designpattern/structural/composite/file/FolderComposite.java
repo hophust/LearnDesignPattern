@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.composite;
+package com.viettel.designpattern.structural.composite.file;
 
 import java.util.ArrayList;
 import java.util.List;

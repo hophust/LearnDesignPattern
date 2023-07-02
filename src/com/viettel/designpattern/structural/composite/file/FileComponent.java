@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.composite;
+package com.viettel.designpattern.structural.composite.file;
 
 public interface FileComponent {
     void showProperty();
