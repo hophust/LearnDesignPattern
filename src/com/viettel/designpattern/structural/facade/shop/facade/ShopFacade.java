@@ -1,6 +1,6 @@
-package com.viettel.designpattern.structural.facade.facade;
+package com.viettel.designpattern.structural.facade.shop.facade;
 
-import com.viettel.designpattern.structural.facade.service.*;
+import com.viettel.designpattern.structural.facade.shop.service.*;
 
 public class ShopFacade {
     private static final ShopFacade INSTANCE = new ShopFacade();

@@ -1,4 +1,4 @@
-package com.viettel.designpattern.creational.prototype;
+package com.viettel.designpattern.creational.prototype.computer;
 
 public class Computer implements Cloneable {
     private String os;

@@ -1,4 +1,4 @@
-package com.viettel.designpattern.structural.facade.service;
+package com.viettel.designpattern.structural.facade.shop.service;
 
 public class EmailService {
     public void sendMail(String mailTo) {

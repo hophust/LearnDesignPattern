@@ -1,6 +1,6 @@
-package com.viettel.designpattern.structural.facade.client;
+package com.viettel.designpattern.structural.facade.shop.client;
 
-import com.viettel.designpattern.structural.facade.facade.ShopFacade;
+import com.viettel.designpattern.structural.facade.shop.facade.ShopFacade;
 
 public class Client {
     public static void main(String[] args) {
