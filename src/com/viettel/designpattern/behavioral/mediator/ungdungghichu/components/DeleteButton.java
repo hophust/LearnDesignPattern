@@ -1,6 +1,6 @@
-package com.viettel.designpattern.behavioral.mediator.ungdungbutton.components;
+package com.viettel.designpattern.behavioral.mediator.ungdungghichu.components;
 
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Mediator;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

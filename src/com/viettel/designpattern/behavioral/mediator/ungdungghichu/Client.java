@@ -1,12 +1,12 @@
-package com.viettel.designpattern.behavioral.mediator.ungdungbutton;
+package com.viettel.designpattern.behavioral.mediator.ungdungghichu;
 
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.components.*;
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Editor;
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Mediator;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.components.*;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Editor;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Mediator;
 
 import javax.swing.*;
 
-public class Demo {
+public class Client {
     public static void main(String[] args) {
         Mediator mediator = new Editor();
 

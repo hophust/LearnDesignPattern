@@ -1,4 +1,4 @@
-package com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator;
+package com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator;
 
 public class Note {
     private String name;

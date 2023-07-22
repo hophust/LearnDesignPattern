@@ -1,6 +1,6 @@
-package com.viettel.designpattern.behavioral.mediator.ungdungbutton.components;
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Mediator;
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Note;
+package com.viettel.designpattern.behavioral.mediator.ungdungghichu.components;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Mediator;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Note;
 
 import javax.swing.*;
 @SuppressWarnings("unchecked")

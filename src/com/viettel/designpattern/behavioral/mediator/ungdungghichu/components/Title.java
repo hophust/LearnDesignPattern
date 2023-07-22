@@ -1,11 +1,9 @@
-package com.viettel.designpattern.behavioral.mediator.ungdungbutton.components;
-
-import com.viettel.designpattern.behavioral.mediator.ungdungbutton.mediator.Mediator;
+package com.viettel.designpattern.behavioral.mediator.ungdungghichu.components;
+import com.viettel.designpattern.behavioral.mediator.ungdungghichu.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.event.KeyEvent;
-
-public class TextBox extends JTextArea implements Component {
+public class Title extends JTextField implements Component {
     private Mediator mediator;
 
     @Override
@@ -20,6 +18,6 @@ public class TextBox extends JTextArea implements Component {
 
     @Override
     public String getName() {
-        return "TextBox";
+        return "Title";
     }
 }
