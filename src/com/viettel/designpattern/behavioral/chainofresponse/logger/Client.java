@@ -2,10 +2,19 @@ package com.viettel.designpattern.behavioral.chainofresponse.logger;
 
 public class Client {
     public static void main(String[] args) {
+        // Build the chain of responsibility
         Logger logger = AppLogger.getLogger();
-        //logger.log(LogLevel.INFO,"Info message");
-        //logger.log(LogLevel.DEBUG,"Debug message");
-        //logger.log(LogLevel.ERROR, "Error message");
-        logger.log(LogLevel.FATAL,"Fatal message");
+
+        // Handled by ConsoleLogger since the console has a LogLevel of DEBUG
+        logger.log(LogLevel.NONE, "None message");
+        logger.log(LogLevel.INFO, "Info message");
+        logger.log(LogLevel.DEBUG, "Debug message");
+
+        // Handled by ConsoleLogger and FileLogger
+        logger.log(LogLevel.ERROR, "Error message");
+
+        // Handled by ConsoleLogger, FileLogger, EmailLogger
+        logger.log(LogLevel.FATAL, "Factal message");
+        logger.log(LogLevel.ALL, "ALLL message");
     }
 }

@@ -2,23 +2,25 @@ package com.viettel.designpattern.behavioral.chainofresponse.logger;
 
 public abstract class Logger {
     protected LogLevel logLevel;
-    protected Logger nextLogger;
+
+    protected Logger nextlogger; // The next Handler in the chain
 
     public Logger(LogLevel logLevel) {
         this.logLevel = logLevel;
     }
 
-    public Logger setNext(Logger nextLogger) {
-        this.nextLogger = nextLogger;
-        return nextLogger;
+    // Set the next logger to make a list/chain of Handlers.
+    public Logger setNext(Logger nextlogger) {
+        this.nextlogger = nextlogger;
+        return nextlogger;
     }
 
-    public void log(LogLevel severity, String mgs) {
-        if(logLevel.getLevel() <= severity.getLevel()) {
-            writeMessage(mgs);
+    public void log(LogLevel severity, String msg) {
+        if (logLevel.getLevel() <= severity.getLevel()) {
+            writeMessage(msg);
         }
-        if(nextLogger != null) {
-            nextLogger.log(severity,mgs);
+        if (nextlogger != null) {
+            nextlogger.log(severity, msg);
         }
     }
 
