@@ -13,10 +13,11 @@ public class ObserverPatternExample {
 	}
 
 	private static AccountService createAccount(String email, String ip) {
-		AccountService account = new AccountService(email, ip);
-		account.attach(new Logger());
-		account.attach(new Mailer());
-		account.attach(new Protector());
-		return account;
+//		AccountService account = new AccountService(email, ip);
+//		account.attach(new Logger());
+//		account.attach(new Mailer());
+//		account.attach(new Protector());
+//		return account;
+		return null;
 	}
 }
